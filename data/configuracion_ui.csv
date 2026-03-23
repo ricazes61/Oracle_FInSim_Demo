@@ -1,0 +1,15 @@
+clave,valor
+moneda,USD
+decimales,2
+roe_objetivo_default,0.15
+mora_critica,0.06
+mora_atencion,0.045
+ratio_eficiencia_objetivo,0.50
+ratio_eficiencia_critico,0.65
+roa_objetivo_default,0.018
+nim_objetivo_default,0.06
+titulo_app,Simulador de Performance Financiera Bancaria
+subtitulo_app,Modelo integrado para analizar rentabilidad riesgo y crecimiento
+nombre_banco,Banco Demo
+umbral_roe_critico,0.08
+umbral_roe_atencion,0.12

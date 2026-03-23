@@ -1,0 +1,10 @@
+parametro,valor
+sensibilidad_tasa_mora,-0.005
+sensibilidad_desempleo_mora,0.025
+sensibilidad_inflacion_mora,0.010
+sensibilidad_crecimiento_costos,0.15
+sensibilidad_crecimiento_fees,0.12
+sensibilidad_tasa_ingresos,0.85
+sensibilidad_fondeo_costos,0.90
+factor_proyeccion_roe,1.02
+factor_proyeccion_utilidad,1.03
